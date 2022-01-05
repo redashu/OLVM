@@ -19,4 +19,13 @@ dnf install virt-manager virt-viewer
 
 ```
 
+### Installing cockpit 
+
+```
+
+dnf install cockpit cockpit-machines 
+
+```
+
+
 
